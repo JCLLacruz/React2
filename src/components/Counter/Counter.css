@@ -1,0 +1,8 @@
+#counterDiv {
+    display: flex;
+    border: black 1px
+}
+
+#counterDiv button {
+    margin: 2rem
+}
